@@ -4,6 +4,7 @@ description: Using a store to manage the state is important for every big applic
 ---
 
 > Using a store to manage the state is important to every big application, that's why Nuxt.js implements [Vuex](https://vuex.vuejs.org/en/) in its core.
+> Set your nuxt mode 'spa' from nuxt.config.js. If it is set in 'universal' mode.
 
 ## Activate the Store
 
